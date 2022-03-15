@@ -1,0 +1,8 @@
+### quarterback all
+
+GET http://localhost:3000/quarterback
+
+### quarterback show
+
+GET http://localhost:3000/quarterback/2
+
